@@ -1,2 +1,2 @@
 # Project_coursera
-Responsive website for restraunt using HTML,CSS,Javascript,Bootstrap.
+Responsive website for restaurant using HTML,CSS,Javascript,Bootstrap.
