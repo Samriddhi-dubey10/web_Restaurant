@@ -78,3 +78,21 @@ body {
   bottom: 0px;
   z-index: 1;
 }/*# sourceMappingURL=styles.css.map */
+
+.menu{
+  padding:50px 30px 50px 80px;
+  text-align: center;
+  text-shadow: 2px 2px #9575CD;
+  font-family: cursive;
+  color: #512DA8;
+  
+  
+}
+.card{
+  background-color: #9575CD;
+}
+.card-text{
+font-size:xx-large;
+text-align: right;
+
+}
